@@ -1,4 +1,4 @@
-# abordando-el-sexismo-en-it
+# Abordando el sexismo en IT
 
 Todos hemos escuchado alguna vez que “el cerebro de las mujeres es diferente”, “Los hombres son más lógicos y ellas más emocionales” y muchos otros incontables argumentos que pretenden perpetuar la creencia de que las mujeres no sirven para desempeñar roles técnicos en el área de tecnología.
 
